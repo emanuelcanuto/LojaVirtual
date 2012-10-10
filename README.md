@@ -1,4 +1,4 @@
-Symfony-2---Loja-Virtual
-========================
+LojaVirtual
+===========
 
-Criar uma loja virtual
+Criar uma loja virtual usando Symfony 2
