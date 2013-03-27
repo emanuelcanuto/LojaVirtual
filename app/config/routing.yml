@@ -1,0 +1,15 @@
+vitrine_funcionario:
+    resource: "@VitrineFuncionarioBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+vitrine_produto:
+    resource: "@VitrineProdutoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+vitrine_cliente:
+    resource: "@VitrineClienteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
